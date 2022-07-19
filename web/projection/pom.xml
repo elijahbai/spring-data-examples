@@ -32,7 +32,7 @@
 		<dependency>
 			<groupId>org.xmlbeam</groupId>
 			<artifactId>xmlprojector</artifactId>
-			<version>1.4.13</version>
+			<version>1.4.23</version>
 		</dependency>
 
 	</dependencies>
